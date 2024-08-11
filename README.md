@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="200"/> 
+</p>
 
 <p align="center">	
    <a href="https://www.linkedin.com/in/gustavo-gk/">
