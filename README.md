@@ -6,8 +6,8 @@
    <a href="https://www.linkedin.com/in/gustavo-gk/">
       <img alt="GustavoAssunção" src="https://img.shields.io/badge/-GustavoAssunção-5965e0?style=for-the-badge&logo=Linkedin&logoColor=white" />
    </a>
-  <img alt="Languages" src="https://img.shields.io/github/languages/count/gustavogk/nome-do-repositorio?style=for-the-badge" />
-  <img alt="lastcommit" src="https://img.shields.io/github/last-commit/gustavogk/nome-do-repositorio?style=for-the-badge" />
+  <img alt="Languages" src="https://img.shields.io/github/languages/count/gustavogk/api-rest-nodejs?style=for-the-badge" />
+  <img alt="lastcommit" src="https://img.shields.io/github/last-commit/gustavogk/api-rest-nodejs?style=for-the-badge" />
   <a href="mailto:seu-email@gmail.com">
    <img alt="Email" src="https://img.shields.io/badge/-GustavoAssunção-5965e0?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
